@@ -1,0 +1,9 @@
+{
+  "watch_dir": "/videos/incoming",
+  "output_dir": "/videos/output",
+  "archive_dir": "/videos/archive",
+  "logs_dir": "/videos/logs",
+  "ready_file_name": "READY",
+  "auto_process_after_inactive_minutes": 10,
+  "delete_work_files": true
+}
